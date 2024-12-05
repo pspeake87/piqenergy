@@ -1,0 +1,6 @@
+python-dotenv
+datetime
+sqlmodel
+typing
+uuid
+fastapi[all]
