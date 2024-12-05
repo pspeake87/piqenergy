@@ -12,13 +12,10 @@ python3 -m pip install -r requirements.txt
 fastapi dev main.py
 ```
 
-### Start a new terminal
-
-To run the sevelte frontend:
+To run the sevelte frontend start a new terminal:
 
 ```bash
 cd piqenergy
-yarm install
+yarn install
 yarn run dev
 ```
-
